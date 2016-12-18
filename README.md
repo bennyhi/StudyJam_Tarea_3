@@ -15,9 +15,7 @@ Este es un pequeño repositorio para probar el  demo  a GitHub, tambien para ver
   Clone con  el siguiente comando:
   > $ git clone https://github.com/bennyhi/StudyJam_Tarea_3.git
 
- Captura
- ---
-![Captura](/img/captura.png)
+
 Dentro de Android Studio:
 
 * File --> New --> Import Project 
@@ -27,11 +25,8 @@ Dentro de Android Studio:
 
 Captura
 ---------
-<div align="center">
-    <center>
-       <img src="app/img/imag1.gif" width="300px"/>
-    </center>
-</div>
+![Captura](/img/gif111.gif)
+
 
 
 
