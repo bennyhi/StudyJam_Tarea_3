@@ -29,8 +29,9 @@ Captura
 ---------
 <div align="center">
     <center>
-       <img src="app/img/gif111.gif" width="300px"/>
+       <img src="app/img/imag1.gif" width="300px"/>
     </center>
 </div>
+
 
 
